@@ -19,6 +19,5 @@
     <li>Restard button</li>
     <li>Score keeper</li>
 </ul>
-<br>
 <h2>License</h2>
     This project is licensed under the <a href='https://github.com/mp-gutierrez/react-tac-toe/blob/main/LICENSE'>MIT License</a>.
